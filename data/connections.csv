@@ -1,0 +1,88 @@
+from,to,weight
+seattle,portland,3
+seattle,billlings,9
+seattle,boise,12
+portland,boise,13
+portland,san francisco,24
+boise,billlings,12
+billlings,cheyenne,9
+boise,cheyenne,24
+cheyenne,denver,0
+san francisco,boise,23
+san francisco,salt lake city,27
+san francisco,las vegas,14
+san francisco,los angeles,9
+los angeles,san diego,3
+los angeles,las vegas,9
+san diego,las vegas,9
+san diego,phoenix,14
+phoenix,las vegas,15
+las vegas,santa fe,27
+las vegas,salt lake city,18
+phoenix,santa fe,18
+santa fe,salt lake city,28
+boise,salt lake city,8
+salt lake city,denver,21
+denver,santa fe,13
+billlings,fargo,17
+billlings,minneapolis,18
+cheyenne,minneapolis,18
+cheyenne,omaha,14
+denver,kansas city,16
+santa fe,kansas city,16
+santa fe,oklohoma city,15
+santa fe,dallas,16
+santa fe,houston,21
+fargo,duluth,6
+fargo,minneapolis,6
+omaha,minneapolis,8
+omaha,kansas city,5
+omaha,chicago,13
+kansas city,oklohoma city,8
+kansas city,chicago,8
+kansas city,st. louis,6
+kansas city,memphis,12
+oklohoma city,memphis,14
+oklohoma city,dallas,3
+dallas,houston,5
+houston,new orleans,8
+dallas,new orleans,12
+dallas,memphis,12
+memphis,st. louis,7
+new orleans,memphis,7
+memphis,birmingham,6
+new orleans,birmingham,11
+birmingham,atlanta,3
+birmingham,jacksonville,9
+new orleans,jacksonville,16
+minneapolis,duluth,5
+minneapolis,chicago,8
+duluth,chicago,12
+duluth,detroit,15
+chicago,st. louis,10
+chicago,detroit,7
+chicago,cincinnati,7
+st. louis,cincinnati,12
+st. louis,atlanta,12
+cincinnati,detroit,4
+pittsburgh,detroit,6
+cincinnati,pittsburgh,7
+cincinnati,knoxville,6
+knoxville,atlanta,5
+atlanta,savannah,7
+miami,tampa,4
+tampa,jacksonville,4
+jacksonville,savannah,0
+savannah,raleigh,7
+atlanta,raleigh,7
+cincinnati,raleigh,15
+raleigh,pittsburgh,7
+raleigh,norfolk,3
+norfolk,washington D.C.,5
+detroit,buffalo,7
+buffalo,pittsburgh,6
+pittsburgh,washington D.C.,6
+buffalo,new york,8
+washington D.C.,philadelphia,3
+philadelphia,new york,0
+new york,boston,3

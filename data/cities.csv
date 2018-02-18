@@ -1,0 +1,43 @@
+city,area
+seattle,purple
+portland,purple
+boise,purple
+billlings,purple
+cheyenne,purple
+denver,purple
+omaha,purple
+san francisco,gray
+los angeles,gray
+san diego,gray
+las vegas,gray
+phoenix,gray
+santa fe,gray
+salt lake city,gray
+oklohoma city,red
+dallas,red
+houston,red
+kansas city,red
+memphis,red
+new orleans,red
+birmingham,red
+atlanta,green
+jacksonville,green
+tampa,green
+miami,green
+savannah,green
+raleigh,green
+norfolk,green
+fargo,yellow
+duluth,yellow
+minneapolis,yellow
+chicago,yellow
+st. louis,yellow
+cincinnati,yellow
+knoxville,yellow
+detroit,brown
+buffalo,brown
+pittsburgh,brown
+boston,brown
+new york,brown
+washington D.C.,brown
+philadelphia,brown
